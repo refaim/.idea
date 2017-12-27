@@ -4,9 +4,4 @@
       <MessDetectorConfiguration />
     </phpmd_settings>
   </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration />
-    </phpcs_settings>
-  </component>
 </application>
