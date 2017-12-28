@@ -23,4 +23,11 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <PHPCodeStyleSettings>
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
+  </codeStyleSettings>
 </code_scheme>
