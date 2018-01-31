@@ -35,6 +35,12 @@
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="FileChooser.NewFolder" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -65,4 +71,5 @@
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="SurroundWith" />
+  <action id="ToggleBookmark" />
 </keymap>
