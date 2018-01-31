@@ -39,6 +39,9 @@
   </action>
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
@@ -69,12 +72,19 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="MethodOverloadSwitchUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NewScratchFile" />
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="SurroundWith" />
   <action id="ToggleBookmark" />
 </keymap>
