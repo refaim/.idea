@@ -32,6 +32,7 @@
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl help" />
@@ -39,6 +40,7 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="shift help" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
